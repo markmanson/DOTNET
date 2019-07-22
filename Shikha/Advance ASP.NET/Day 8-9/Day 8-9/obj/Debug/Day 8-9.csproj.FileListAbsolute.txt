@@ -1,0 +1,8 @@
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 8-9\Day 8-9\Day 8-9\bin\Day 8-9.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 8-9\Day 8-9\Day 8-9\bin\Day 8-9.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 8-9\Day 8-9\Day 8-9\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 8-9\Day 8-9\Day 8-9\obj\Debug\Day_8_9.CultureJapToEng.resources
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 8-9\Day 8-9\Day 8-9\obj\Debug\Day_8_9.CultureLgn.resources
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 8-9\Day 8-9\Day 8-9\obj\Debug\Day 8-9.csproj.GenerateResource.Cache
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 8-9\Day 8-9\Day 8-9\obj\Debug\Day 8-9.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 8-9\Day 8-9\Day 8-9\obj\Debug\Day 8-9.pdb

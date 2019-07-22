@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> Login Validation </title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="Ankit Kumar Sharma">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="Login validation">
+  <script type="text/javascript">
+  function validateForm()
+{
+var x=document.forms["FrmHLogin"]["TxtHLogin_ID"].value;
+var y=document.forms["FrmHLogin"]["PassPassword"].value;
+ if(x=="")
+ {
+ alert("Please enter login");
+ return false;
+ }
+ else if(y=="")
+ {
+ alert("Please enter Password");
+ return false;
+ }
+ else if(x!="Ankit" && y!="Ankit")
+ {
+ alert("Please enter correct Login Id and Password");
+ return false;
+ }
+ else if(x!="Ankit" && y=="Ankit")
+ {
+ alert("Please enter correct login id");
+ return false;
+ }
+ else if(x=="Ankit" && y!="Ankit")
+ {
+ alert("Please enter correct Password");
+ return false;
+ }
+ else if(x=="Ankit" && y=="Ankit")
+ {
+ alert("You have sign in successfully");
+ return true;
+ }
+ }
+</script>
+ <link rel="stylesheet" type="text/css" href="login.css" />
+ </head>
+ <body  OnLoad="document.FrmHLogin.TxtHLogin_ID.focus();">
+ <center><h1>Login Form</h1></center>
+   <form name="FrmHLogin" >
+   <center>
+  <table name="TblHLogin" >
+  <tr>
+  <th colspan="2">Login Detail</th></tr>
+  <tr> 
+  <th>Login ID:</th><td><input type="text" name="TxtHLogin_ID" /><br /></td>
+  </tr>
+  <tr>
+  <th> Password :</th><td><input type="password" name="PassPassword" /><br /></td>
+  </tr>
+  <tr>
+  <td> <button name="BtnSSubmit" type="submit" value="submit" onclick="return validateForm()">Submit</button></td>
+  <td><button name="BtnRReset"type="reset" value="reset">Clear</button></td>
+  </tr>
+  </table>
+  </center>
+  </form>
+ </body>
+</html>

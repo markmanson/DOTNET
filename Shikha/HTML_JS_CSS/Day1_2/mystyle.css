@@ -1,0 +1,13 @@
+ 
+p {margin-left:20px;font-family:arial;color:red;font-size:20px;}
+table { margin: auto; border-style:solid;
+border-color:black; border: 1px solid black; border-collapse:collapse;
+}
+table, th,td
+{
+border: 1px solid black;
+}
+	  h3{
+	 text-align:center;
+	  }
+ 

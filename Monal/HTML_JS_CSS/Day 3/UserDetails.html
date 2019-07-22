@@ -1,0 +1,416 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> Register User Detail Form </TITLE>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+<link rel="stylesheet" type="text/css" href="CSSformating.css" />
+<script language="Javascript" type="text/javascript">
+function setfocus()
+{
+	frmRegister.Fname.focus();
+	return true;
+	
+}
+
+function validate1()
+{	
+	var a=false; 
+	var fname=frmRegister.Fname.value.length;
+	
+	var mname=frmRegister.Mname.value.length;
+	var lname=frmRegister.Lname.value.length;
+	var mail=frmRegister.txtMail.value.length;
+	
+	var adres=frmRegister.addres.value.length;
+	var interest1=frmRegister.interest.value.length;
+	for(i=0;i<2;i++)
+	{
+		if(frmRegister.Rname[i].checked==true)
+		{
+			a=true;
+		}
+	}
+	var b=false;
+	for(i=0;i<3;i++)
+	{
+		if(frmRegister.selection[i].checked==true)
+		{
+			b=true;
+		}
+	}
+	/*if(frmRegister.Fname.value=="")
+	{
+		alert("Please Enter Your First Name");
+		frmRegister.Fname.focus();
+		return false;
+	}*/
+	 if(fname > 50)
+	{
+		alert("Please enter only maximum 50 characters");
+		frmRegister.Fname.focus();
+		frmRegister.Fname.select();
+		return false;
+	}
+	else if(mname > 50)
+	{
+		alert("Please enter only maximum 50 characters");
+		frmRegister.Mname.select();
+		return false;
+	}
+	else if(lname > 50)
+	{
+		alert("Please enter only maximum 50 characters");
+		frmRegister.Lname.focus();
+		frmRegister.Lname.select();
+		return false;
+	}
+	else if(mail > 50)
+	{
+		alert("Please enter only maximum 50 characters");
+		frmRegister.txtMail.focus();
+		frmRegister.txtMail.select();
+		return false;
+	}
+	
+	/*else if(frmRegister.Lname.value=="")
+	{
+		alert("Please Enter Your Last Name");
+		frmRegister.Lname.focus();
+		frmRegister.Lname.select();
+		return false;
+	}*/
+	
+	else if (a==false) 
+	{
+        alert ( "Please choose your Gender: Male or Female" );
+		frmRegister.Rname[0].focus();
+        return false;
+    }
+
+	 else if(frmRegister.bdate.selectedIndex == 0 )
+    {
+        alert ( "Please select Date." );
+		frmRegister.bdate.focus();
+        return false;
+    }
+	else if (frmRegister.bdate1.selectedIndex == 0 )
+    {
+        alert ( "Please select Month." );
+		frmRegister.bdate1.focus();
+        return false;
+    }
+	 else if (frmRegister.bdate2.selectedIndex == 0 )
+    {
+        alert ( "Please select Year." );
+		frmRegister.bdate2.focus();
+        return false;
+    }
+	else if(adres > 100)
+	{
+		alert("Please enter only maximum 100 characters");
+		frmRegister.addres.focus();
+		frmRegister.addres.select();
+		return false;
+	}
+	 else if (b==false)
+    {
+        alert ( "Please select checkbox of your interested area." );
+		frmRegister.selection[0].focus();
+		
+        return false;
+    }
+	
+	else if(frmRegister.interest.value=="")
+	{
+		alert("Please enter value for your interested area");
+		frmRegister.interest.focus();
+		frmRegister.interest.select();
+		return false;
+	}
+	else if(interest1> 100)
+	{
+		alert("Please enter only maximum 100 characters");
+		frmRegister.interest.focus();
+		return false;
+	}
+ 
+	else
+	{
+		alert("welcome user");
+
+		return true;
+	}
+
+}
+
+function validateEmail()
+ {
+	if(frmRegister.txtMail.value!="")
+	{
+	var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+    var address = frmRegister.txtMail.value;
+    if(reg.test(address) == false) 
+	{
+      alert('Invalid Email Address');
+	  frmRegister.txtMail.focus();
+	  frmRegister.txtMail.select();
+      return false;
+	}
+	}
+}
+function mname()
+{
+	if(frmRegister.Mname.value!="")
+	{
+	var mName=/([A-Za-z\'\ ])/;
+	var fvalue=/([0-9\`~!#$@%^&*(){}[]|_\-\.])/;
+	
+	var validname=frmRegister.Mname.value;
+	if ((mName.test(validname)==false)  || (fvalue.test(validname)==true))
+	{
+		alert('Invalid Middle Name');
+		frmRegister.Mname.focus();
+		frmRegister.Mname.select();
+		
+		
+      return false;
+	}
+	}
+
+
+}
+function fname()
+{
+	if(frmRegister.Fname.value!="")
+	{
+	var fName=/([A-Za-z\'])/;
+	var fvalue=/([0-9\`~!#$@%^&*(){}[]|_\-\.<>])/;
+	var validname=frmRegister.Fname.value;
+	if((fName.test(validname)==false) || (fvalue.test(validname)==true))
+	{
+		alert('Invalid First Name');
+		frmRegister.Fname.focus();
+		frmRegister.Fname.select();
+		
+
+      return false;
+	}
+	}
+	else
+	{
+		alert("Please Enter First Name"); 
+		frmRegister.Fname.focus();
+		return false;
+	}
+	
+}
+
+function lname()
+{
+	if(frmRegister.Lname.value!="")
+	{
+	var lName=/([A-Za-z])/;
+	var fvalue=/([0-9\`~!#$@%^&*(){}[]|_\-\.])/;
+	var validname=frmRegister.Lname.value;
+	
+	if((lName.test(validname)==false)  || (fvalue.test(validname)==true))
+	{
+	
+	  alert('Invalid Last Name');
+	 frmRegister.Lname.select();
+		frmRegister.Lname.focus();
+
+      return false;
+	}
+	}
+	else
+	{
+		alert("Please Enter Last name"); 
+		frmRegister.Lname.focus();
+		return false;
+	}
+}
+
+</script>
+</HEAD>
+
+<BODY onload="return setfocus();">
+<Form name="frmRegister" method="post">
+
+<div align="center">
+
+<h4>Note:Mandatory fields are defined with "<span>*</span>"<h4>
+
+<table align="center"  cellpadding="2" cellspacing="2">
+<tr>
+	<td>
+	<table align="center"  cellpadding="2" cellspacing="2">
+	<tr>
+	<td class="th"><h4>Personal Deatils<h4></td></tr>
+	<tr>
+		<td>
+		<!-- <div align="center"> -->
+			<table align="center" cellpadding="2" cellspacing="2">
+			<tr>
+		
+				<td>
+			
+					<h5>	Salutation:</h5>
+				</td>
+				<td>
+					<select name="salutation">
+						<option value="Select">Select</option><br>
+						<option value="Mr.">Mr.</option><br>
+						<option value="Mrs.">Mrs.</option><br>
+						<option value="Miss">Miss</option><br>
+					 </select>			
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h5><span>*</span>First Name:</h5>
+					
+				</td>
+				<td>
+					<input type="text" name="Fname" onblur="fname();">
+					<!-- <input type="text" onfocus="changecolor('Fname')" name="Fname" maxlength="50"> -->
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h5> Middle Initial:</h5>
+				</td>
+				<td>
+					<input type="text" name="Mname" onblur="mname();">
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h5><span>*</span>Last Name:</h5>
+				</td>
+				<td>
+					<input type="text"  name="Lname" onblur="lname();">
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h5><span>*</span>Sex:</h5>
+				</td>
+				<td>
+					<fieldset id="mybuttons">
+					<input type="radio" name="Rname" value="Male">Male
+					<input type="radio" name="Rname" value="FeMale">FeMale
+					</fieldset>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h5>EMail ID:</h5>
+				</td>
+				<td>
+					<input type="text" name="txtMail" onblur="validateEmail();">
+				</td>
+			</tr>
+			<tr>
+		
+				<td>
+			
+					<h5><span>*</span>Birth Date:</h5>
+				</td>
+				<td>
+					<select name="bdate">
+					<script type="text/vbscript">
+						document.write("<option selected>Date</option>")
+						For i=1 to 31 
+						
+							document.write("<option>"&i&"</option><br>")
+
+						Next
+
+					</script>	
+						
+					 </select>			
+				
+					<select name="bdate1">
+					<script type="text/vbscript">
+						document.write("<option selected>Month</option>")
+						For i=1 to 12 
+						
+							document.write("<option>"&i&"</option><br>")
+
+						Next
+
+					</script>	
+						
+					 </select>			
+				
+					<select name="bdate2">
+					<script type="text/vbscript">
+						document.write("<option selected>Year</option>")
+						For i=1980 to 2010 
+						
+							document.write("<option>"&i&"</option><br>")
+
+						Next
+
+					</script>	
+						
+					 </select>			
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<h5>Address:</h5>
+				</td>
+				<td>
+					<textarea wrap="virtual" name="addres" rows="3" cols="20"></textarea>
+				</td>
+			</tr>
+	</td>
+</tr>
+<tr>
+	<td bgcolor="White" width="100%" colspan="2"><h4>Area Of Intrest<h4></td>
+</tr>
+<tr>
+				<td>
+					<h5><span>*</span>Select Options:</h5>
+				</td>
+				<td>
+					<input type="checkbox" name="selection" value="web programming">web programming<br>
+					<input type="checkbox" name="selection" value="Dbase Programming">Dbase Programming<br>
+					<input type="checkbox" name="selection" value="swing programming">swing programming<br>
+					<input type="checkbox" name="selection" value="Mobile Programming">Mobile Programming<br>
+				</td>
+</tr>
+<tr>
+				<td>
+					<h5><span>*</span>Other Interest</h5>
+				</td>
+				<br>
+				<td>
+					<textarea wrap="virtual" name="interest" rows="3" cols="20"></textarea>
+				</td>
+</tr>
+
+</table>
+<!-- </div> -->
+<tr>
+			<td>
+				<h5 align="center">
+					<input type="submit" value="Submit" onclick="return validate1();">&nbsp;&nbsp;
+					<input type="reset" value="Reset" name="btnReset">
+					<br>
+				
+			</td>
+			
+</tr>
+		</table>
+		
+	</div>
+	
+</Form>
+</BODY>
+</HTML>

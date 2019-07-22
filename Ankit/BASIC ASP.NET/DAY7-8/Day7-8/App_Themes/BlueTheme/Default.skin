@@ -1,0 +1,14 @@
+﻿<%-- Style for GridView --%>
+
+
+<asp:GridView runat="server" width="100%" CssClass="gridviewstyle" Gridlines="None" PageSize="10" RowStyle-Height="1.8em">    
+
+    <HeaderStyle Font-Bold="True" BackColor="#708FC0" ForeColor="White" /> 
+    
+    <RowStyle BackColor="#CAD5E8" />   
+    <AlternatingRowStyle BackColor="White" />
+    
+    <PagerStyle BackColor="#708FC0" ForeColor="White" HorizontalAlign="Center" Height="1.5em" Font-Size="1.05em" Font-Bold="true" CssClass="gridPager" />
+    <PagerSettings Mode="NumericFirstLast" FirstPageText="<<" LastPageText=">>" PageButtonCount="6" />
+    
+</asp:GridView>

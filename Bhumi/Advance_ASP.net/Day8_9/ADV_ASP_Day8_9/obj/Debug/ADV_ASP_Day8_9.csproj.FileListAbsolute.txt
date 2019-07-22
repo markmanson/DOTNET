@@ -1,0 +1,11 @@
+C:\Users\UNIAD02\Documents\Visual Studio 2010\Projects\ADV_ASP_Day8_9\ADV_ASP_Day8_9\bin\ADV_ASP_Day8_9.dll
+C:\Users\UNIAD02\Documents\Visual Studio 2010\Projects\ADV_ASP_Day8_9\ADV_ASP_Day8_9\bin\ADV_ASP_Day8_9.pdb
+C:\Users\UNIAD02\Documents\Visual Studio 2010\Projects\ADV_ASP_Day8_9\ADV_ASP_Day8_9\obj\Debug\ADV_ASP_Day8_9.dll
+C:\Users\UNIAD02\Documents\Visual Studio 2010\Projects\ADV_ASP_Day8_9\ADV_ASP_Day8_9\obj\Debug\ADV_ASP_Day8_9.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day8_9\ADV_ASP_Day8_9\bin\ADV_ASP_Day8_9.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day8_9\ADV_ASP_Day8_9\bin\ADV_ASP_Day8_9.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day8_9\ADV_ASP_Day8_9\obj\Debug\ADV_ASP_Day8_9.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day8_9\ADV_ASP_Day8_9\obj\Debug\ADV_ASP_Day8_9.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day8_9\ADV_ASP_Day8_9\obj\Debug\ADV_ASP_Day8_9.csproj.GenerateResource.Cache
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day8_9\ADV_ASP_Day8_9\obj\Debug\ADV_ASP_Day8_9.EnglishToJapanese.resources
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day8_9\ADV_ASP_Day8_9\obj\Debug\ADV_ASP_Day8_9.JapaneseToEnglish.resources

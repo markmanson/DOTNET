@@ -1,0 +1,5 @@
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY3\ServerControl\ServerControl\bin\Debug\ServerControl.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY3\ServerControl\ServerControl\bin\Debug\ServerControl.pdb
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY3\ServerControl\ServerControl\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY3\ServerControl\ServerControl\obj\Debug\ServerControl.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY3\ServerControl\ServerControl\obj\Debug\ServerControl.pdb

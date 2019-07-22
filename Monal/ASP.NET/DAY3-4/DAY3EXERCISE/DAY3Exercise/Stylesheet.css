@@ -1,0 +1,72 @@
+﻿body
+{
+}
+.table
+{
+    width: 50%;
+    border: 1px #000000;
+    background-color: Gray;
+    border-collapse: collapse;
+    border-color: ActiveBorder;
+    border-style: ridge;
+    border-spacing: 2px;
+    border-width: medium;
+}
+.td
+{
+    width: 12px;
+    border: 1px #000000;
+    border-collapse: collapse;
+    border-width: thin;
+}
+.td1
+{
+    width: 117px;
+    border: 1px #000000;
+    border-collapse: collapse;
+    border-width: thin;
+}
+
+.td2
+{
+    width: 76px;
+    border: 1px #000000;
+    border-collapse: collapse;
+    border-width: thin;
+}
+.td3
+{
+    width: 237px;
+    border: 1px #000000;
+    border-collapse: collapse;
+    border-width: thin;
+}
+.td4
+{
+    width: 186px;
+    border: 1px #000000;
+    border-collapse: collapse;
+    border-width: thin;
+}
+
+.span
+{
+    azimuth: center;
+    color: #FF0000;
+    font-size: larger;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Panel
+{
+    width: 317px;
+    font-size: 12px;
+    height: 263px;
+}
+.panel2
+{
+    width: 375px;
+    font-size: 12px;
+    height: 400px;
+}

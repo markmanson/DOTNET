@@ -1,0 +1,48 @@
+﻿body
+{
+}
+.table
+{
+    width: 450px;
+    border: 1px #0000FF;
+    background-color: #22AABB;
+    border-collapse: collapse;
+    border-color: Black;
+    border-style: groove;
+    border-spacing: 2px;
+    border-width: 1px;
+    azimuth: left;
+    height: 150px;
+}
+.td
+{
+    width: 250px;
+    border: 1px #0000FF;
+    border-collapse: collapse;
+    border-width: 1px;
+    azimuth: left-side;
+    direction: ltr;
+    height: 17px;
+}
+.Panel
+{
+    width: 500px;
+    font-size: 12px;
+    height: 350px;
+}
+.lblMsg
+{
+    background-color: #22AABB;
+    color: White;
+    width: 80px;
+    height: 17px;
+    font-size: 12px;
+}
+.lblControl
+{
+    background-color: White;
+    color: Red;
+    width: 150px;
+    height: 20px;
+    font-size: 14px;
+}

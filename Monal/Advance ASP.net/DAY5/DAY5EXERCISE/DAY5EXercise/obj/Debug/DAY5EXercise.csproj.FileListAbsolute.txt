@@ -1,0 +1,12 @@
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\bin\DAY5EXercise.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\bin\DAY5EXercise.pdb
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\obj\Debug\DAY5EXercise.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\obj\Debug\DAY5EXercise.pdb
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\bin\NCI.EasyObjectsFree.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\bin\Microsoft.Practices.ObjectBuilder.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\bin\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY5\DAY5EXercise\DAY5EXercise\bin\Microsoft.Practices.EnterpriseLibrary.Data.xml

@@ -1,0 +1,5 @@
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 10-11\Day 10-11\Day 10-11\bin\Day 10-11.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 10-11\Day 10-11\Day 10-11\bin\Day 10-11.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 10-11\Day 10-11\Day 10-11\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 10-11\Day 10-11\Day 10-11\obj\Debug\Day 10-11.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 10-11\Day 10-11\Day 10-11\obj\Debug\Day 10-11.pdb

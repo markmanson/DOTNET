@@ -1,0 +1,5 @@
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY10-11\DAY10-11XMLProgram\DAY10-11XMLProgram\bin\DAY10-11XMLProgram.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY10-11\DAY10-11XMLProgram\DAY10-11XMLProgram\bin\DAY10-11XMLProgram.pdb
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY10-11\DAY10-11XMLProgram\DAY10-11XMLProgram\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY10-11\DAY10-11XMLProgram\DAY10-11XMLProgram\obj\Debug\DAY10-11XMLProgram.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY10-11\DAY10-11XMLProgram\DAY10-11XMLProgram\obj\Debug\DAY10-11XMLProgram.pdb

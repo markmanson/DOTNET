@@ -1,0 +1,6 @@
+Adding an item to the cache by directly setting the item via key and value.
+Adding items to the cache using the Insert method.
+Adding an item to the cache and adding a dependency so that the item is removed from the cache when the dependency changes. You can set dependencies based on other cache items, on files, and on multiple objects.
+Adding an item to the cache with expiration policies. In addition to being able to set an item's dependency, you can set the item to expire after a period of time (a sliding expiration) or at a specific time (an absolute expiration). You can define either an absolute expiration or a sliding expiration, but not both.
+Adding an item to the cache and defining the relative priority of the cached item. Relative priorities help the .NET Framework determine what cache items to remove; lower priority items are removed from the cache before higher priority items.
+Adding an item by calling the Add method.

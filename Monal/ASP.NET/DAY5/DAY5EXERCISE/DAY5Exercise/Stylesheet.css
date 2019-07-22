@@ -1,0 +1,89 @@
+﻿body
+{
+}
+.table
+{
+    width:326px;
+    border: 1px #FFFFFF;
+    background-color: Gray;
+    border-collapse: collapse;
+    border-color: ActiveBorder;
+    border-style: ridge;
+    border-spacing: 2px;
+    border-width: medium;
+    azimuth:left;
+}
+.td
+{
+   
+    width: 12px;
+    border: 1px #FFFFFF;
+    border-collapse: collapse;
+    border-width: thin;
+    azimuth:left-side;
+    direction:ltr;
+}
+
+.span
+{
+    azimuth: center;
+    color: #FF0000;
+    font-size: larger;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Panel
+{
+    width: 380px;
+    font-size: 12px;
+    height: 460px;
+}
+.panel2
+{
+    width: 375px;
+    font-size: 12px;
+    height: 400px;
+}
+.label
+{
+    color:White;
+    width:40px;
+    height:50px;
+    font-size:18px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    azimuth:center-left;
+    font-family:Times New Roman;
+    font-style:normal;
+    font-weight:normal;
+    letter-spacing:normal;
+       
+}
+.labelControl
+{
+    color:White;
+    width:40px;
+    height:50px;
+    font-size:14px;
+    font-style:oblique;
+    font-variant:normal;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    azimuth:left;
+    font-family:Times New Roman;
+    font-style:normal;
+    font-weight:normal;
+    letter-spacing:normal;
+       
+}
+.lblMsg
+{
+   background-color:White;
+   color:Red;
+   width:40px;
+   height:50px;
+  
+}

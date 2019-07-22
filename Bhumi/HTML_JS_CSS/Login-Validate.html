@@ -1,0 +1,94 @@
+<html>
+
+<head>
+<title> Login Page </title>
+
+<link rel="stylesheet" type="text/css" href="logincss.css">
+
+<script type="text/javascript">
+
+function validateForm() 
+{
+    var a = document.forms["myForm"]["ID"].value;
+    var b = document.forms["myForm"]["pswd"].value;
+    if (a == "")
+    {
+        alert("Please Enter Login Id");
+        return false;
+    }
+    else if (b == "")
+    {
+        alert("Please Enter password");
+        return false;
+    }
+    else if(a=="bhumi" && b!=="bhumi")
+    {
+	alert("Invalid Login Id & Password");
+        return false;
+    }
+    else if(a!=="bhumi" && b=="bhumi")
+    {
+	alert("Invalid Login Id & Password");
+        return false;
+    }
+
+
+    else if(a!=="bhumi" && b!=="bhumi")
+    {
+	alert("Invalid Login Id & Password");
+        return false;
+    }
+    else
+    {
+        alert("Successfully Login...");
+        return false;
+    }
+}
+</script>
+
+</head>
+
+<body>
+
+
+<form name="myForm" onsubmit="return validateForm()" method="post">
+<div>
+<table class="t1">
+<caption>
+<h2>
+<label for="login_details" style="width:40%">Login Details</label></h2><br>
+<caption>
+
+<tr>
+<td>
+<label for="login_id" style="width:40%">Login ID</label>
+</td>
+<td>
+<input type="text" id="txt1" name="ID" autofocus><br>
+</td>
+</tr>
+
+<tr>
+<td>
+<label for="password">Password</label>
+</td>
+<td>
+<input type="password" id="txt2" name="pswd"><br>
+</td>
+</tr>
+
+</table>
+<table class="t2">
+<tr align="center">
+<td colspan="2">
+<input type="submit" value="Submit">&nbsp;&nbsp;&nbsp;
+<input type="reset" value="Clear">
+</td>
+</tr>
+</table>
+</div>
+</form>
+
+</body>
+
+</html>

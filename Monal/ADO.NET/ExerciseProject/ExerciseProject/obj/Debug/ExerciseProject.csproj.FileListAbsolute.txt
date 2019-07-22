@@ -1,0 +1,5 @@
+D:\DotNet_Skillup\Source Code\Monal\ADO.NET\ExerciseProject\ExerciseProject\bin\ExerciseProject.dll
+D:\DotNet_Skillup\Source Code\Monal\ADO.NET\ExerciseProject\ExerciseProject\bin\ExerciseProject.pdb
+D:\DotNet_Skillup\Source Code\Monal\ADO.NET\ExerciseProject\ExerciseProject\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet_Skillup\Source Code\Monal\ADO.NET\ExerciseProject\ExerciseProject\obj\Debug\ExerciseProject.dll
+D:\DotNet_Skillup\Source Code\Monal\ADO.NET\ExerciseProject\ExerciseProject\obj\Debug\ExerciseProject.pdb

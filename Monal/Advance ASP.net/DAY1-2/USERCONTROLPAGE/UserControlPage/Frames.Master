@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Frames.master.cs" Inherits="UserControlPage.Frames" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Master Page</title>
+    <link href="Stylesheet.css" type="text/css" rel="Stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div align="center">
+        <hr />
+        <asp:Panel ID="MainPnl" runat="server" CssClass="panelMaster">
+            <asp:Label ID="LblWelcomeMsg" runat="server" CssClass="lblMsg" Font-Bold="true" Text="User Control Example"></asp:Label>
+        </asp:Panel>
+        <hr />
+    </div>
+    <asp:Panel ID="InnerPanel" runat="server" CssClass="panelMaster">
+        <div align="left">
+            <asp:Panel ID="ChildPanel2" runat="server" CssClass="panelMaster">
+                <table id="table" align="left" border="1px">
+                    <tr>
+                        <td align="left" class="td1">
+                            <asp:Button ID="BtnEmployeeDetails" runat="server" Text="Get Employee Details" OnClick="BtnEmployeeDetails_Click"
+                                Width="206px" />
+                            <br />
+                            <asp:Button ID="BtnDepartmentDetails" runat="server" Text="Get Department Details"
+                                OnClick="BtnDepartmentDetails_Click" />
+                        </td>
+                        <td class="td2">
+                            <asp:ContentPlaceHolder ID="MasterContentPlaceHolder" runat="server">
+                            </asp:ContentPlaceHolder>
+                        </td>
+                    </tr>
+                </table>
+            </asp:Panel>
+        </div>
+    </asp:Panel>
+    </form>
+</body>
+</html>

@@ -1,0 +1,33 @@
+﻿.gridviewstyle
+{
+	border: 1px solid #CAD5E8;
+}
+
+.gridviewstyle tr th 
+{
+    padding: 2px 2px 2px 8px;
+}
+
+.gridviewstyle td
+{
+	vertical-align: middle;
+	padding-left: 8px;
+}
+
+.gridPager span
+{
+	font-size:1.4em;
+}
+
+.gridPager td
+{
+  padding-left: 5px;     
+  padding-right: 5px;    
+}
+
+.gridPager a
+{
+	text-decoration: none;
+}
+
+html { font-family: Helvetica, Arial, sans-serif; }

@@ -1,0 +1,5 @@
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 4\Day 4\ServerControlRateArticle\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 4\Day 4\ServerControlRateArticle\bin\Debug\ServerControlRateArticle.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 4\Day 4\ServerControlRateArticle\bin\Debug\ServerControlRateArticle.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 4\Day 4\ServerControlRateArticle\obj\Debug\ServerControlRateArticle.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Advance ASP.NET\Day 4\Day 4\ServerControlRateArticle\obj\Debug\ServerControlRateArticle.pdb

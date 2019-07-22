@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsApplication", "WindowsApplication\WindowsApplication.csproj", "{DCE4238E-B83A-48E2-8BF4-E068E16A0F41}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupApplication", "SetupApplication\SetupApplication.vdproj", "{3F2584BC-5DFA-45AD-A9D3-018EEFC56B85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE4238E-B83A-48E2-8BF4-E068E16A0F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE4238E-B83A-48E2-8BF4-E068E16A0F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE4238E-B83A-48E2-8BF4-E068E16A0F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE4238E-B83A-48E2-8BF4-E068E16A0F41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2584BC-5DFA-45AD-A9D3-018EEFC56B85}.Debug|Any CPU.ActiveCfg = Debug
+		{3F2584BC-5DFA-45AD-A9D3-018EEFC56B85}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

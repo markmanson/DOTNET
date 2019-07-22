@@ -1,0 +1,289 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> Registration Form </title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Shikha" content="">
+  <meta name="Keywords" content="">
+  <meta name="Registration form for register user" content="">
+   
+  <script type="text/javascript">
+ function validateForm()
+   {
+   var fnm=document.myform.First_Name.value;
+   var lnm=document.myform.Last_Name.value;
+   var bth=document.myform.Birthday_day.value;
+
+   var wchk=document.myform.waot;
+   var dchk=document.myform.daot;
+   var schk=document.myform.saot;
+   var mchk=document.myform.maot;
+   var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+   var mreg=document.myform.Email_Id.value;
+   var mail = document.myform.Email_Id.value;
+   var add=document.myform.Address.value;
+   var oth=document.myform.Other_Area.value;
+   var chks = document.getElementsByName('aot');
+   var hasChecked = false;
+   var count=0;
+   
+   
+  if (fnm=="")
+  {
+    alert("Please enter first name");
+	  document.getElementById("First_Name").focus();
+	count++;
+	return false;
+  } 
+  else if (fnm.length >50)
+  {
+    alert("please enter up to 50 character name")
+	  document.getElementById("First_Name").focus();
+	  return false;
+  }
+ 
+  else if (lnm==null || lnm=="")
+  {
+     alert("Please enter last name");
+	   document.getElementById("Last_Name").focus();
+return false;
+  } 
+  else if (lnm.length >50)
+  {
+  alert("please enter up to 50 character name")
+  return false;
+  }
+
+  else if((document.getElementById("m").checked==false)&&(document.getElementById("f").checked==false) ) 
+ {  
+   alert("Please select gender");
+   document.getElementById("m").focus();
+   return false;
+ }
+
+
+ if(mail!="" ) 
+ { 
+    if(reg.test(mail)==false)
+    {
+       alert('Invalid Email Address');
+	   document.getElementById("Email_Id").focus();
+       return false;
+     }
+	 }
+
+
+ if(document.myform.Birthday_day.selectedIndex==0)  
+{  
+alert('Please Select your Birth date from the list'); 
+document.getElementById("Birthday_day").focus();
+return false;
+}
+else if(document.myform.Birthday_Month.selectedIndex==0)  
+{  
+alert('Please Select your Birth month from the list'); 
+document.getElementById("Birthday_Month").focus();
+return false;
+}
+else if(document.myform.Birthday_Year.selectedIndex==0)  
+{  
+alert('please Select your Birth year from the list'); 
+document.getElementById("Birthday_Year").focus();
+return false;
+}
+
+else if(add.length >100)
+{
+  alert(" pleasr enter character up to 100");
+  return false;
+}
+
+
+for (var i = 0; i < chks.length; i++)
+{
+if (chks[i].checked)
+{
+hasChecked = true;
+break;
+}
+}
+if (hasChecked == false)
+{
+alert("Please select at least one cheak box");
+document.getElementById("aot").focus();
+return false;
+}
+
+else if(oth=="")
+{
+alert(" please fill other area");
+document.getElementById("Other_Area").focus();
+return false;
+}
+
+else
+{
+alert("submit sucssfully");
+document.myform.submit();
+return true;
+
+}
+
+
+}
+
+ </script>
+
+ </head>
+
+ <body OnLoad="document.myform.First_Name.focus();">
+
+
+<form name="myform">
+ <link rel="stylesheet" type="text/css" href="mystyle3.css" />
+ 
+<table align="center" >
+<tr>
+<th>Personal Details</th>
+</tr>
+<tr>
+  <td>
+   Salutation
+   </td>
+   <td>
+   <select name="salutation" >
+<option value="0">Mr.</option>
+<option value="1">Mr.</option>
+<option value="2">Ms.</option>
+<option value="3">Mrs.</option>
+</select>
+</td>
+</tr>
+<tr>
+<td> FIRST NAME <span>*</span> </td>
+
+
+<td><input type="text" name="First_Name" maxlength="50"/>
+
+</td>
+</tr>
+
+<tr>
+<td>Middle Initial</td>
+<td><input type="text" name="txtHMiddle_Initial"/>
+</td>
+</tr>
+
+
+<tr>
+<td>LAST NAME <span>*</span></td>
+<td><input type="text" name="Last_Name" maxlength="50"/>
+
+</td>
+</tr>
+
+<tr>
+<td>Sex <span>*</span></td>
+<td>
+Male <input type="radio" name="sex"  value="Male" id="m" />
+Female <input type="radio" name="sex" value="Female" id="f" />
+</td>
+</tr>
+
+
+<tr>
+<td>EMAIL ID </td>
+<td><input type="text" name="Email_Id" maxlength="100" /></td>
+</tr>
+
+<tr>
+<td>DATE OF BIRTH <span>*</span></td>
+<td>
+
+<select name="Birthday_day" id="Birthday_Day">
+<option value="0">Day</option>
+ <script type="text/javascript">
+   for( var i=0;i<=31;i++)
+   {
+   document.write("<option>"+i+"</option>");
+  
+   }
+</script>
+</select>
+
+<select id="Birthday_Month" name="Birthday_Month">
+<option value="0">Month</option>
+<script type="text/javascript">
+for( var i=1;i<12;i++)
+{
+  document.write("<option>"+i+"</option>");
+  
+ }
+</script>
+</select>
+
+
+<select name="Birthday_Year" id="Birthday_Year">
+<option value="0">Year</option>
+	
+	<script type="text/javascript">
+for(i=1990;i<2010;i++)
+{
+ 
+ document.write("<option>"+i+"</option>");
+}
+</script>
+ 
+ </select>
+</td>
+</tr>
+
+<tr>
+<td>ADDRESS <br /><br /><br /></td>
+<td><textarea name="Address" rows="4" cols="30"></textarea></td>
+</tr>
+
+<tr>
+<td> Area of Interest <span>*</span> <br /><br /><br /></td>
+</tr>
+
+<tr>
+ <td>
+ <input type="checkbox" name="aot" value="web" />
+   Web Programming
+ </td>
+ </tr>
+ <tr><td>
+<input type="checkbox" name="aot" value="data" />
+DataBase Programming</td></tr>
+
+<tr><td>
+<input type="checkbox" name="aot" value="swing" />
+Swing Prograamin</td></tr>
+
+<tr>
+<td>
+<input type="checkbox" name="aot" value="mob" />
+  Mobile Programming</td></tr>
+
+<tr><td>
+
+Others Interest
+
+<textarea  name="Other_Area" maxlength="100" ></textarea>
+
+</td>
+
+</tr>
+	
+<tr>
+   <td colspan="2" align="center">
+   <input type="Button" value="Submit" onclick="return validateForm()">
+   <input type="reset" value="Reset">
+   </td>
+   </tr>
+   </table>
+   </form>
+
+</body>
+</html>

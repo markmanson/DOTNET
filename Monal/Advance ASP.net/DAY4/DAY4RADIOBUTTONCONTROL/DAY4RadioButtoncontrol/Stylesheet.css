@@ -1,0 +1,43 @@
+﻿body
+{
+}
+.Dynamictable
+{
+    width: 150px;
+    background-color: white;
+    border: Solid 1px black;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    azimuth: left;
+}
+.Bodytd
+{
+    width: 300px;
+    border-collapse: collapse;
+    border-color: Black;
+    azimuth: left-side;
+    direction: ltr;
+    height: 5px;
+    color: Red;
+}
+.panel
+{
+    width: 300px;
+    font-size: 15px;
+    height: 100px;
+}
+.lblControl
+{
+    color: Red;
+    width: 150px;
+    height: 5px;
+    font-size: 12px;
+}
+.lblMsg
+{
+    color: Blue;
+    width: 250px;
+    height: 5px;
+    font-size: 12px;
+}
+

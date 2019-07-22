@@ -1,0 +1,214 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> User Detail </title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="Ankit Kumar Sharma">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="User Detail ">
+  <!java script starts from here......>
+  <script type="text/javascript">
+  //function for validation.........
+  function validateForm()
+ {
+  var ch = false ;
+  var a=document.forms["FrmHUD"]["TxtHFN"].value;
+  var b=document.forms["FrmHUD"]["TxtHLN"].value;
+  var z=document.forms["FrmHUD"]["TxtAreaoi"].value;
+ var c=document.getElementById("oi").value;
+ var d=document.getElementById("eid").value;
+ var e=document.getElementById("a").value;
+ var atpos=d.indexOf("@");
+ var dotpos=d.lastIndexOf(".");
+if(a=="")
+ {
+ alert("You must have enter First Name");
+ document.getElementById("fn").focus();
+ return false;
+ }
+ else if(b=="")
+ {
+ alert("You must have enter Last Name");
+ document.getElementById("ln").focus();
+ return false;
+ }
+ else if ((document.getElementById("SM").checked==false) && (document.getElementById("SF").checked==false))
+ {
+ alert("You must have enter Sex");
+ document.getElementById("SM").focus();
+ return false;
+ }
+ else if(d.length!=0)
+ {
+	if (d.length<=50)
+	{
+	if (dotpos<atpos+2 ||dotpos+2>=d.length)
+	{
+		alert("E-mail id is not valid");
+		document.getElementById("eid").focus();
+	return false;
+	}
+	}
+	else
+	{
+		alert("You have entered more than 50 characters in email id....");
+		document.getElementById("eid").focus();
+		return false;
+	}
+ }
+if(e.length>100)
+ {
+ alert("You have entered more than 100 characters in address....");
+ document.getElementById("a").focus();
+ return false;
+ }
+else if(document.FrmHUD.DdlHY.selectedIndex==0)
+ {
+ alert("You must have enter year in date of birth");
+ document.getElementById("y").focus();
+ return false;
+ }
+ else if(document.FrmHUD.DdlHM.selectedIndex==0)
+ {
+ alert("You must have enter month in date of birth");
+ document.getElementById("m").focus();
+ return false;
+ }
+ else if(document.FrmHUD.DdlHD.selectedIndex==0)
+ {
+ alert("You must have enter day in date of birth");
+ document.getElementById("d").focus();
+ return false;
+ }
+for(var i=0;i<document.FrmHUD.CbxHinterest.length;i++)
+ {
+	 if(document.FrmHUD.CbxHinterest[i].checked == true)
+	 {
+	  ch=true;
+	 
+	 }
+ } 
+if(ch==false)
+ {
+ document.getElementById("wp").focus();
+ alert("You must have enter area of Interest");
+ return false;
+ }
+ else if(z == "")
+ {
+	 alert("You must have enter Other Interest");
+	 document.getElementById("oi").focus();
+	 return false;
+ }
+else if(c.length>100)
+ {
+ alert("You have entered more than 100 characters in other interest....");
+ document.getElementById("oi").focus();
+ return false;
+ }
+ else
+ {
+ alert("You have submit your details successfully");
+ return true;
+ }
+}
+</script><!java script ends here...........>
+  <link rel="stylesheet" type="text/css" href="Login.css" />
+</head>
+<body OnLoad="document.FrmHUD.TxtHFN.focus();">
+  <center><h1>User Detail</h1></center>
+  <form name="FrmHUD">
+  <table name="TblHUserDetail" align="center"><!Enter table>
+  <tr>
+  <th colspan="2" id="pd" >Personal Detail</th></tr>
+  <tr>
+  <th>Salutation:</th> <td>
+  <select>
+  <option> Mr.</option>
+  <option>Ms.</option>
+  <option>Mrs.<option>
+  </select>
+  </td>
+  </tr>
+  <tr>
+  <th>First Name <span>*</span></th><td><input type="text" name="TxtHFN" maxlength="50" id="fn"></td>
+  </tr>
+   <tr>
+  <th>Middle Name </th><td><input type="text" name="TxtHMN" maxlength="50"></td>
+  </tr>
+   <tr>
+  <th>Last Name <span>*</span></th><td><input type="text" name="TxtHLN" maxlength="50" id="ln"></td>
+  </tr>
+   <tr>
+  <th>Sex <span>*</span></th><td><input type="radio" name="RbiSex" id="SM"value="male"  />Male
+  <input type="radio" name="RbiSex" id="SF" value="female" />Female
+  </td>
+  </tr>
+  <tr>
+  <th>Email ID </th><td><input type="text" name="TxtHEid" id="eid"></td>
+  </tr>
+   <tr>
+  <th>Address </th><td><textarea rows="4" cols="20" id="a">
+</textarea></td>
+  </tr>
+  <tr>
+  <th>Date Of Birth<span>*</span> </th>
+  <td>
+  <select id="y" name="DdlHY">
+  <option value="0">Year</option>
+  <script type="text/javascript">
+  for(var i=1960;i<=2000;i++)
+  {
+  document.write("<option>"+i+"</option>");
+  }
+  </script>
+  </select>
+<select id="m" name="DdlHM" >
+<option value="0">Month</option>
+<script type="text/javascript">
+for(var i=1;i<=12;i++)
+  {
+  document.write("<option >"+i+"</option>");
+  }
+  </script>
+  </select>
+  <select id="d" name="DdlHD">
+  <option value="0">Day</option>
+  <script type="text/javascript">
+for(var i=1;i<=31;i++)
+  {
+  document.write("<option>"+i+"</option>");
+  }
+  </script>
+  <option></option>
+  </select>
+  <option></option>
+  </select>
+</td>
+  </tr>
+  <tr>
+  <th colspan="2" >Area Of Interest <span>*</span></th>
+  </tr>
+  <tr>
+  <td colspan="2"><input type="checkbox" name="CbxHinterest" value="WP" id="wp">web Programming  </td>
+  </tr>
+  <tr>
+  <td colspan="2"><input type="checkbox" name="CbxHinterest" value="DbP" id="dp">Database Programming  </td>
+  </tr>
+  <tr>
+  <td colspan="2"><input type="checkbox" name="CbxHinterest" value="SW" id="sp">Swing Programming  </td>
+  </tr>
+  <tr>
+  <td colspan="2"><input type="checkbox" name="CbxHinterest" value="WP" id="mp">Mobile Programming  </td>
+  </tr>
+  <tr> <th colspan="2">Other interests<span>*</span></th>
+  </tr>
+<tr> <td colspan="2">
+<textarea rows="4" cols="20"  id="oi" name="TxtAreaoi">
+</textarea></td>
+  </tr>
+  <tr> <td><center><button type="submit" name="BtnSSubmit" value=" submit" onclick="return validateForm()" >Submit</center></td><td><center> <button type="reset" name="BtnRClear" value="reset"> Clear </center></td>
+</table>
+</form>
+ </body>
+</html>

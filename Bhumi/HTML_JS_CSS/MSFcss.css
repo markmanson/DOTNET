@@ -1,0 +1,39 @@
+table
+{
+border:solid;
+}
+
+ul
+{
+list-style-type: square;
+}
+
+html {
+    background: url(images.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+a:link {
+    color: #FF69B4;
+}
+
+
+a:visited {
+    color: #00FF00;
+}
+
+
+a:hover {
+    color: #FF00FF;
+}
+
+
+a:active {
+    color: #0000FF;
+}
+
+
+h1
+{ 
+   background-color: #E6E6FA;
+}
+

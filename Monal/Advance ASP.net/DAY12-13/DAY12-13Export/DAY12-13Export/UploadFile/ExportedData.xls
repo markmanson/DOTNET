@@ -1,0 +1,23 @@
+<div>
+	<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+		<tr>
+			<th scope="col">Name</th><th scope="col">BirthDate</th><th scope="col">Address</th><th scope="col">PostalCode</th>
+		</tr><tr>
+			<td>Mrs. Nancy Davolio</td><td>1948/12/08</td><td>507 - 20th Ave. E.</td><td>98122</td>
+		</tr><tr>
+			<td>Dr. Andrew Fuller</td><td>1952/02/19</td><td>908 W. Capital Way</td><td>98401</td>
+		</tr><tr>
+			<td>Ms. Janet Leverling</td><td>1963/08/30</td><td>722 Moss Bay Blvd.</td><td>98033</td>
+		</tr><tr>
+			<td>Mrs. Margaret Peacock</td><td>1937/09/19</td><td>4110 Old Redmond Rd.</td><td>98052</td>
+		</tr><tr>
+			<td>Mr. Steven Buchanan</td><td>1955/03/04</td><td>14 Garrett Hill</td><td>SW1 8JR</td>
+		</tr><tr>
+			<td>Mr. Michael Suyama</td><td>1963/07/02</td><td>Coventry House</td><td>EC2 7JR</td>
+		</tr><tr>
+			<td>Mr. Aalok Parikh</td><td>2009/11/21</td><td>Kalarav Flat, New ViakshGruh Road</td><td>380007</td>
+		</tr><tr>
+			<td>Miss monal shah</td><td>2010/02/01</td><td>vasna</td><td>1545</td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Day_9.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>MasterPage</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color:Gray">
+    <form id="form1" runat="server">
+    <div>
+    <asp:Table runat="server" HorizontalAlign="Center" BorderColor="Black" BorderWidth="2">
+    <asp:TableHeaderRow><asp:TableHeaderCell>
+                        <asp:Label ID="lblMain" runat="server" Text="Welcome to my application" Font-Bold="true" Font-Italic="true" ForeColor="Red" Font-Size="XX-Large"></asp:Label>
+    </asp:TableHeaderCell></asp:TableHeaderRow>
+    </asp:Table>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolderMaster" runat="server">
+                
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

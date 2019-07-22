@@ -1,0 +1,10 @@
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day6\ASP_Day6\bin\ASP_Day6.dll
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day6\ASP_Day6\bin\ASP_Day6.pdb
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day6\ASP_Day6\obj\Debug\ResolveAssemblyReference.cache
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day6\ASP_Day6\obj\Debug\ASP_Day6.dll
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day6\ASP_Day6\obj\Debug\ASP_Day6.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day6\ASP_Day6\bin\ASP_Day6.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day6\ASP_Day6\bin\ASP_Day6.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day6\ASP_Day6\obj\Debug\ASP_Day6.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day6\ASP_Day6\obj\Debug\ASP_Day6.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day6\ASP_Day6\obj\Debug\ASP_Day6.csprojResolveAssemblyReference.cache

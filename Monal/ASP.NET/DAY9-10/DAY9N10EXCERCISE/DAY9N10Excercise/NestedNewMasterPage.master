@@ -1,0 +1,17 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/WelcomeMasterPage.Master" AutoEventWireup="true"
+    CodeBehind="NestedNewMasterPage.master.cs" Inherits="DAY9N10Excercise.NestedNewMasterPage" %>
+
+<asp:Content ID="MasterContent" ContentPlaceHolderID="MasterContentPlaceHolder" runat="server">
+    <div align="center">
+        <asp:Panel ID="Panel1" runat="server" CssClass="Panel">
+            <asp:Label ID="LblWelcomeMsg" runat="server" CssClass="lblMsg"></asp:Label>
+            <table id="MasterTable" align="center">
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="NestedContent" runat="server" />
+                    </td>
+                </tr>
+            </table>
+        </asp:Panel>
+    </div>
+</asp:Content>

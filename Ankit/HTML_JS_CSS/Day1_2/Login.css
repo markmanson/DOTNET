@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+body
+{
+background-color:Gray;
+}
+h1
+{
+color: orange;
+font-style:"Arial";
+}
+Table
+{
+ border:2px solid black;
+ text-align :center;
+background-color:Aqua;
+}
+td
+{
+font-family:"Times New Roman";
+}
+button
+{
+font-style:"Times New Roman";
+}
+</style>
+</head>

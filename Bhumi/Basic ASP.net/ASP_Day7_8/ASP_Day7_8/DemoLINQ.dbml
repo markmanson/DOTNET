@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Northwind_Bhumi" Class="DemoLINQDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=UNIAD20\SQLEXPRESS;Initial Catalog=Northwind_Bhumi;Persist Security Info=True;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="LINQ_ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.EmployeeDetail" Member="EmployeeDetails">
+    <Type Name="EmployeeDetail">
+      <Column Name="EmployeeDetailID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Salary" Type="System.Decimal" DbType="Decimal(18,3)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,15 @@
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\bin\Day8-9Excercise.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\bin\Day8-9Excercise.pdb
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\bin\en-Us\Day8-9Excercise.resources.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\bin\ja-JP\Day8-9Excercise.resources.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\Day8_9Excercise.App_GlobalResources.English.ResourceFile.resources
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\Day8_9Excercise.App_GlobalResources.Japanees.ResourceFile.resources
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\Day8_9Excercise.Properties.Resources.resources
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\Day8_9Excercise.Resources.Strings.en-Us.resources
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\Day8_9Excercise.Resources.Strings.ja-JP.resources
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\Day8-9Excercise.csproj.GenerateResource.Cache
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\en-Us\Day8-9Excercise.resources.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\ja-JP\Day8-9Excercise.resources.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\Day8-9Excercise.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY8-9\Day8-9Excercise\Day8-9Excercise\obj\Debug\Day8-9Excercise.pdb

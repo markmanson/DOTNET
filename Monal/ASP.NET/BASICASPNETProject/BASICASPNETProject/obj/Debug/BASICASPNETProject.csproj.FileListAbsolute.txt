@@ -1,0 +1,5 @@
+D:\DotNet_Skillup\Source Code\Monal\ASP.NET\BASICASPNETProject\BASICASPNETProject\bin\BASICASPNETProject.dll
+D:\DotNet_Skillup\Source Code\Monal\ASP.NET\BASICASPNETProject\BASICASPNETProject\bin\BASICASPNETProject.pdb
+D:\DotNet_Skillup\Source Code\Monal\ASP.NET\BASICASPNETProject\BASICASPNETProject\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet_Skillup\Source Code\Monal\ASP.NET\BASICASPNETProject\BASICASPNETProject\obj\Debug\BASICASPNETProject.dll
+D:\DotNet_Skillup\Source Code\Monal\ASP.NET\BASICASPNETProject\BASICASPNETProject\obj\Debug\BASICASPNETProject.pdb

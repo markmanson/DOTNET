@@ -1,0 +1,56 @@
+table
+{
+	
+	background-color:#b0c4de;
+	border-color:#000000;
+	padding:2;
+	border: 1px solid Navy;
+	border-collapse:collapse;
+
+	
+	
+	
+}
+td
+{
+	color:navy;
+	margin-left:20px;
+	margin-right:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	font-size:10pt;
+	font-family:Courier New;
+		
+	height:20px;
+	vertical-align:Top;
+
+
+}
+.th
+{
+	background-color:#FFFFFF;
+}
+a:link 
+{
+	color:#FF0000;
+}      
+a:visited 
+{
+	color:#00FF00;
+}  
+a:hover 
+{
+	color:#FF00FF;
+}  
+a:active 
+{
+	color:#0000FF;
+}  
+li
+{
+	color:#C71585;
+}
+span
+{
+	color:#FF0000;
+}

@@ -1,0 +1,96 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> login form</title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Shikha" content="">
+  <meta name="Keywords" content="">
+  <meta name="A login form with validation for login id" content="">
+  <script type="text/javascript">
+   
+function validateForm()
+{
+var x=document.forms["myForm"]["TxtHLoginId"].value;
+var y=document.forms["myForm"]["PassPassword"].value;
+if (x==null || x=="")
+  {
+
+  alert("Enter login id");
+  
+  return false;
+  }
+  else if(y==null||y=="")
+  {
+  alert("Enter password")
+  
+  }
+  else if(x!=="shikha")
+  {
+  alert("invalid login id")
+
+  }
+  else if(y!=="shikha")
+  {
+  alert("password missmatch");
+  
+  }
+  else
+  {
+  alert("submit successfully");
+  
+  }
+
+  
+
+
+}
+</script>
+ </head>
+
+ <body OnLoad="document.myForm.TxtHLoginId.focus();">
+
+ <form name="myForm"   >
+   <link rel="stylesheet" type="text/css" href="mystyle2.css" />
+   <table border="1" height="100">
+   <tr>
+   <td>
+   <table border="1" align="center">
+   <tr>
+   
+   <td>
+
+         Login Detail
+		 </td>
+		 </tr>
+		 </table>
+   <TABLE  >
+  <TR>
+  
+    <TD align="center">Login Id</TD>
+
+	<td>
+	<td align="right">
+    
+      <INPUT TYPE="TEXT" NAME="TxtHLoginId" SIZE="25"/>
+	  </td>
+	  </td>
+    
+  </TR>
+  <TR>
+ 
+    <TD align="center">Password</TD>
+	
+    <TD><td align="right">
+	<INPUT TYPE="TEXT" NAME="PassPassword" SIZE="25"/> </td></TD>
+  </TR>
+</TABLE>
+
+
+<P><input type="Button" value="Submit" name="btnHSUBMIT" onclick="validateForm()"/>
+<input type="reset" value="Reset" name="btnRReset" /></p>
+</td>
+</tr>
+</table>
+</form>
+ </body>
+</html>

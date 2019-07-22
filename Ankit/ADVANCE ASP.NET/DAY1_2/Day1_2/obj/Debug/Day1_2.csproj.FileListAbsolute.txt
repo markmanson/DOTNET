@@ -1,0 +1,10 @@
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day1_2\Day1_2\bin\Day1_2.dll
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day1_2\Day1_2\bin\Day1_2.pdb
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day1_2\Day1_2\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day1_2\Day1_2\obj\Debug\Day1_2.dll
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day1_2\Day1_2\obj\Debug\Day1_2.pdb
+C:\Documents and Settings\Ankit\Desktop\Day1_2\Day1_2\bin\Day1_2.dll
+C:\Documents and Settings\Ankit\Desktop\Day1_2\Day1_2\bin\Day1_2.pdb
+C:\Documents and Settings\Ankit\Desktop\Day1_2\Day1_2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ankit\Desktop\Day1_2\Day1_2\obj\Debug\Day1_2.dll
+C:\Documents and Settings\Ankit\Desktop\Day1_2\Day1_2\obj\Debug\Day1_2.pdb

@@ -1,0 +1,10 @@
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\DAY_1\Day1\Day1\bin\Day1.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\DAY_1\Day1\Day1\bin\Day1.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\DAY_1\Day1\Day1\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\DAY_1\Day1\Day1\obj\Debug\Day1.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\DAY_1\Day1\Day1\obj\Debug\Day1.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day1\Day1\bin\Day1.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day1\Day1\bin\Day1.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day1\Day1\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day1\Day1\obj\Debug\Day1.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day1\Day1\obj\Debug\Day1.pdb

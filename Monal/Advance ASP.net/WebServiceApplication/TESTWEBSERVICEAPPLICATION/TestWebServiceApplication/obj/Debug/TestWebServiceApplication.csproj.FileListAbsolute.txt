@@ -1,0 +1,5 @@
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\WebServiceApplication\TestWebServiceApplication\TestWebServiceApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\WebServiceApplication\TestWebServiceApplication\TestWebServiceApplication\bin\TestWebServiceApplication.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\WebServiceApplication\TestWebServiceApplication\TestWebServiceApplication\bin\TestWebServiceApplication.pdb
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\WebServiceApplication\TestWebServiceApplication\TestWebServiceApplication\obj\Debug\TestWebServiceApplication.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\WebServiceApplication\TestWebServiceApplication\TestWebServiceApplication\obj\Debug\TestWebServiceApplication.pdb

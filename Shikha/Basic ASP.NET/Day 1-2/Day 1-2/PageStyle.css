@@ -1,0 +1,135 @@
+﻿body
+{
+	 font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    padding: 50px;
+    color: #555;
+}
+h1 {
+    text-align: left;
+    letter-spacing: 6px;
+    font-size: 1.4em;
+    color: #be7429;
+    font-weight: normal;
+    width: 450px;
+}
+
+table {
+    width: 580px;
+    padding: 10px;
+    background-color: #c5e7e0;
+    margin:right ;
+  border-color: Black;
+  border-width: 3px;
+  border-style: solid;
+}
+
+th {
+    text-align: left;
+    border-bottom: 1px solid;
+}
+
+td {
+    padding: 10px;
+}
+
+a:link {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: none;
+}
+
+a:link:hover {
+   color: #be7429;
+   font-weight: normal;
+   text-decoration: underline;
+}
+  style1
+       {
+            width: 100%;
+            border:1;
+        }
+       style2
+        {
+            width: 57px;
+            height: 52px;
+        }
+        style4
+        {
+            width: 144px;
+            height: 52px;
+        }
+       style5
+        {
+            width: 491px;
+            height: 52px;
+        }
+        style6
+        {
+            width: 152px;
+            height: 52px;
+        }
+      style7
+        {
+            width: 220px;
+            height: 52px;
+        }
+       style8
+        {
+            width: 57px;
+            height: 78px;
+        }
+        style10
+        {
+            height: 78px;
+        }
+       style12
+        {
+            width: 220px;
+            height: 78px;
+        }
+       style13
+        {
+            width: 491px;
+            height: 78px;
+        }
+      style14
+        {
+            width: 64px;
+            height: 52px;
+        }
+      style15
+        {
+            width: 64px;
+            height: 78px;
+        }
+        style16
+        {
+            width: 57px;
+            height: 60px;
+        }
+      style17
+        {
+            width: 64px;
+            height: 60px;
+        }
+      style18
+        {
+            width: 144px;
+            height: 60px;
+        }
+       style19
+        {
+            width: 152px;
+            height: 60px;
+        }
+     style20
+        {
+            width: 220px;
+            height: 60px;
+        }
+      style21
+        {
+            width: 491px;
+            height: 60px;
+        }

@@ -1,0 +1,76 @@
+﻿body
+{
+}
+.Dynamictable
+{
+    width: 350px;
+    background-color: white;
+    border: Solid 1px black;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    azimuth: left;
+}
+.Bodytd
+{
+    width: 290px;
+    border-collapse: collapse;
+    border-color: Black;
+    azimuth: left-side;
+    direction: ltr;
+    height: 2px;
+    color: Red;
+}
+.panel
+{
+    width: 500px;
+    font-size: 15px;
+    height: 150px;
+}
+.lblControl
+{
+    color: Red;
+    width: 50px;
+    height: 5px;
+    font-size: 12px;
+}
+.lblMsg
+{
+    color: Blue;
+    width: 250px;
+    height: 5px;
+    font-size: 12px;
+}
+.GridView
+{
+    background-color: White;
+    border-color: Black;
+    border-style: groove;
+    font-style: normal;
+    font-size: 11px;
+    font-family: Times New Roman,Sans Serif;
+    border-width: 1px;
+    width: 440px;
+    caption-side: Top;
+}
+.GridViewHeaderStyle
+{
+    background-color: Aqua;
+    border-color: Black;
+    border-style: Groove;
+    border-width: 1px;
+    font-family: Times New Roman,Sans serif;
+    font-size: 14px;
+    height: 20px;
+    width: 50px;
+}
+.GridViewAlternaterowstyle
+{
+    background-color: Aqua;
+    border-color: White;
+    border-width: 1px;
+    font-family: Times New Roman,Sans serif;
+    font-size: 11px;
+}
+
+
+

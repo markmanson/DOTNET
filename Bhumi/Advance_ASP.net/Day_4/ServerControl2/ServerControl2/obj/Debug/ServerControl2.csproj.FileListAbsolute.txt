@@ -1,0 +1,8 @@
+C:\Users\UNIAD02\Documents\Visual Studio 2010\Projects\ServerControl2\ServerControl2\bin\Debug\ServerControl2.dll
+C:\Users\UNIAD02\Documents\Visual Studio 2010\Projects\ServerControl2\ServerControl2\bin\Debug\ServerControl2.pdb
+C:\Users\UNIAD02\Documents\Visual Studio 2010\Projects\ServerControl2\ServerControl2\obj\Debug\ServerControl2.dll
+C:\Users\UNIAD02\Documents\Visual Studio 2010\Projects\ServerControl2\ServerControl2\obj\Debug\ServerControl2.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day_4\ServerControl2\ServerControl2\bin\Debug\ServerControl2.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day_4\ServerControl2\ServerControl2\bin\Debug\ServerControl2.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day_4\ServerControl2\ServerControl2\obj\Debug\ServerControl2.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Advance_ASP.net\Day_4\ServerControl2\ServerControl2\obj\Debug\ServerControl2.pdb

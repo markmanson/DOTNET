@@ -1,0 +1,29 @@
+table
+{
+width:45%;
+}
+th
+{
+background-color:DarkGray;
+align:"center";
+}
+div
+{
+
+align:"center";
+padding-left: 400px;
+}
+
+.t1
+{
+align:"center";
+border:"2";
+padding:10px;
+border: 1px solid black;
+}
+
+label
+{
+border: 1px solid;
+}
+

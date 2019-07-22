@@ -1,0 +1,5 @@
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day4\ServerControl_RateArticle\ServerControl_RateArticle\bin\Debug\ServerControl_RateArticle.dll
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day4\ServerControl_RateArticle\ServerControl_RateArticle\bin\Debug\ServerControl_RateArticle.pdb
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day4\ServerControl_RateArticle\ServerControl_RateArticle\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day4\ServerControl_RateArticle\ServerControl_RateArticle\obj\Debug\ServerControl_RateArticle.dll
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day4\ServerControl_RateArticle\ServerControl_RateArticle\obj\Debug\ServerControl_RateArticle.pdb

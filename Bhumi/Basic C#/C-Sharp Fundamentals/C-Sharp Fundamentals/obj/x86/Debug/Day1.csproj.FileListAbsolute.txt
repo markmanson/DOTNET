@@ -1,0 +1,5 @@
+C:\Users\UNIAD02\AppData\Local\Temporary Projects\Day1\bin\Debug\Day1.exe
+C:\Users\UNIAD02\AppData\Local\Temporary Projects\Day1\bin\Debug\Day1.pdb
+C:\Users\UNIAD02\AppData\Local\Temporary Projects\Day1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\UNIAD02\AppData\Local\Temporary Projects\Day1\obj\x86\Debug\Day1.exe
+C:\Users\UNIAD02\AppData\Local\Temporary Projects\Day1\obj\x86\Debug\Day1.pdb

@@ -1,0 +1,5 @@
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY14\DAY14SendMail\DAY14SendMail\bin\DAY14SendMail.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY14\DAY14SendMail\DAY14SendMail\bin\DAY14SendMail.pdb
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY14\DAY14SendMail\DAY14SendMail\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY14\DAY14SendMail\DAY14SendMail\obj\Debug\DAY14SendMail.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY14\DAY14SendMail\DAY14SendMail\obj\Debug\DAY14SendMail.pdb

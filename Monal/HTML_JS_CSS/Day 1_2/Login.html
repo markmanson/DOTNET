@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE> LOGIN FORM  </TITLE>
+<META NAME="Generator" CONTENT="EditPlus">
+<META NAME="Author" CONTENT="">
+<META NAME="Keywords" CONTENT="">
+<META NAME="Description" CONTENT="">
+<link rel="stylesheet" type="text/css" href="CSSformating.css" />
+<script language="Javascript" type="text/javascript">
+function setfocus()
+{
+	frmLogin.Loginid.focus();
+	return true;
+	
+}
+function mesage()
+{
+	if(frmLogin.Loginid.value=="")
+	{
+		alert("Please Enter value");
+		frmLogin.Loginid.focus();
+
+		return false;
+	}
+	else if(frmLogin.pwd.value=="")
+	{
+		alert("Please Enter password");
+		frmLogin.pwd.focus();
+		return false;
+	}
+	
+	else if(frmLogin.Loginid.value=='Monal' && frmLogin.pwd.value=='monal')
+	{
+		alert("Welcome Monal");
+		frmLogin.Loginid.value="";
+		frmLogin.pwd.value="";
+		return false;
+	}
+	else if(frmLogin.Loginid.value!='Monal' || frmLogin.pwd.value!='monal')
+	{
+		alert("Please Enter correct User Id and Password");
+		frmLogin.Loginid.focus();
+		frmLogin.Loginid.select();
+		
+		return false;
+	}
+    else
+	{
+		
+		return true;
+	} 
+}
+
+
+</script>
+</HEAD>
+
+<BODY onload="return setfocus();">
+<Form name="frmLogin" method="post">
+<div align="center">
+<table border="1" align="center" cellpadding="2" cellspacing="2">
+<tr>
+	<td><h4>Login Deatils<h4></td>
+	<tr>
+	<td>
+	<div align="center">
+		<table border="1" align="center" cellpadding="2" cellspacing="2">
+		<tr>
+			<td>
+			<br>
+				<h5>
+					Login ID:&nbsp;<input type="text" name="Loginid" maxlength="25" ><br><br>
+					Password:&nbsp;<input type="password" name="pwd" maxlength="10"><br><br>
+				</h5>
+			</td>
+		</tr>
+		
+		<tr>
+			<td>
+				<h5 align="center">
+					<input type="submit" value="Submit" onclick="return mesage();">&nbsp;&nbsp;
+					<input type="reset" value="Reset" name="btnReset">
+					<br>
+				</h5>	
+			</td>
+		</tr>
+	</td>
+	</table>
+	</tr>
+</tr>
+</Form>
+</BODY>
+</HTML>

@@ -1,0 +1,5 @@
+D:\DotNetSkillup\Source Code\Ankit\Basic ASP.NET\Day_6\Day_6\Day_6\bin\Day_6.dll
+D:\DotNetSkillup\Source Code\Ankit\Basic ASP.NET\Day_6\Day_6\Day_6\bin\Day_6.pdb
+D:\DotNetSkillup\Source Code\Ankit\Basic ASP.NET\Day_6\Day_6\Day_6\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillup\Source Code\Ankit\Basic ASP.NET\Day_6\Day_6\Day_6\obj\Debug\Day_6.dll
+D:\DotNetSkillup\Source Code\Ankit\Basic ASP.NET\Day_6\Day_6\Day_6\obj\Debug\Day_6.pdb

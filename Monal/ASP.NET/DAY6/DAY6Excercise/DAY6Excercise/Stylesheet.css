@@ -1,0 +1,50 @@
+﻿body
+{
+}
+.table
+{
+    width:145px;
+    border: 1px #FFFFFF;
+    background-color:InactiveCaption;
+    border-collapse: collapse;
+    border-color: ActiveBorder;
+    border-style: ridge;
+    border-spacing: 2px;
+    border-width: medium;
+    azimuth:left;
+}
+.td
+{
+    width: 140px;   
+    border: 1px #FFFFFF;
+    border-collapse: collapse;
+    border-width: thin;
+    azimuth:left-side;
+    direction:ltr;
+}
+
+.span
+{
+    azimuth: center;
+    color: #FF0000;
+    font-size: larger;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Panel
+{
+    width: 130px;
+    font-size: 12px;
+    height: 200px;
+}
+
+.lblMsg
+{
+   background-color:White;
+   color:Red;
+   width:150px;
+   height:5px;
+   font-size:12px;
+  
+}

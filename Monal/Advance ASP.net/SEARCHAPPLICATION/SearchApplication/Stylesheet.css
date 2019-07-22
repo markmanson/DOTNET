@@ -1,0 +1,88 @@
+﻿body
+{
+}
+.table
+{
+    width: 193px;
+    border: 1px #0000FF;
+    background-color: Gray;
+    border-collapse: collapse;
+    border-color: Black;
+    border-style: groove;
+    border-spacing: 2px;
+    border-width: 1px;
+    azimuth: left;
+}
+.td
+{
+    width: 150px;
+    border: 1px #0000FF;
+    border-collapse: collapse;
+    border-width: 1px;
+    azimuth: left-side;
+    direction: ltr;
+    height: 5px;
+}
+.Panel
+{
+    width: 201px;
+    font-size: 12px;
+    height: 240px;
+}
+.PanelGrid
+{
+    width: 400px;
+    font-size: 12px;
+    height: 230px;
+}
+.lblMsg
+{
+    background-color: White;
+    color: Red;
+    width: 189px;
+    height: 16px;
+    font-size: 14px;
+}
+.lblControl
+{
+    background-color: Gray;
+    color: White;
+    width: 100px;
+    height: 25px;
+    font-size: 12px;
+}
+.GridView
+{
+    background-color: White;
+    border-color: Black;
+    border-style: groove;
+    font-style: normal;
+    font-size: 11px;
+    font-family: Times New Roman,Sans Serif;
+    border-width: 1px;
+    width: 500px;
+    caption-side: Top;
+}
+.GridViewHeaderStyle
+{
+    background-color: Aqua;
+    border-color: Black;
+    border-style: Groove;
+    border-width: 1px;
+    font-family: Times New Roman,Sans serif;
+    font-size: 14px;
+    height: 20px;
+    width: 50px;
+}
+.GridViewAlternaterowstyle
+{
+    background-color: Aqua;
+    border-color: White;
+    border-width: 1px;
+    font-family: Times New Roman,Sans serif;
+    font-size: 11px;
+}
+
+
+
+

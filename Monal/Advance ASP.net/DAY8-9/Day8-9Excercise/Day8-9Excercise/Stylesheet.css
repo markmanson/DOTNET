@@ -1,0 +1,52 @@
+﻿body
+{
+}
+.Dynamictable
+{
+    width: 200px;
+    background-color: white;  
+    border-collapse: collapse;
+    border-spacing: 2px;
+    azimuth: left;
+    font-size: 12px;
+}
+.Bodytd
+{
+    width: 150px;
+    border-collapse: collapse;
+    border-color: Black;
+    azimuth: left-side;
+    direction: ltr;
+    height: 2px;
+    color: Red;
+    font-size: 12px;
+}
+.panel
+{
+    width: 300px;
+    font-size: 15px;
+    height: 150px;
+}
+.panelLanguage
+{
+    width: 250px;
+    font-size: 15px;
+    height: 70px;
+}
+.lblControl
+{
+    color: Red;
+    width: 180px;
+    height: 5px;
+    font-size: 12px;
+}
+.lblMsg
+{
+    color: Blue;
+    width: 250px;
+    height: 5px;
+    font-size: 12px;
+}
+
+
+

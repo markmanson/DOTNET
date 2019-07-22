@@ -1,0 +1,4 @@
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day3\ServerControlLogin\ServerControlLogin\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day3\ServerControlLogin\ServerControlLogin\bin\Debug\ServerControlLogin.pdb
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day3\ServerControlLogin\ServerControlLogin\obj\Debug\ServerControlLogin.dll
+D:\DotNetSkillup\Source Code\Ankit\Advance ASP.NET\Day3\ServerControlLogin\ServerControlLogin\obj\Debug\ServerControlLogin.pdb

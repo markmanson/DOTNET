@@ -1,0 +1,6 @@
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day_2-4\Day_2-4\Day_2-4\bin\Day_2-4.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day_2-4\Day_2-4\Day_2-4\bin\Day_2-4.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day_2-4\Day_2-4\Day_2-4\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day_2-4\Day_2-4\Day_2-4\obj\Debug\Day_2-4.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day_2-4\Day_2-4\Day_2-4\obj\Debug\Day_2-4.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ADO.NET\Day_2-4\Day_2-4\Day_2-4\bin\AjaxControlToolkit.dll

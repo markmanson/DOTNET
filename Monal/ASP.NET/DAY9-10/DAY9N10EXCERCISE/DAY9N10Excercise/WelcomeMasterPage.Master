@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="WelcomeMasterPage.master.cs"
+    Inherits="DAY9N10Excercise.WelcomeMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Welcome Master Page</title>
+    <link href="Stylesheet.css" rel="Stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div align="center">
+        <asp:Panel ID="Panel1" runat="server" CssClass="Panel">
+            <asp:Label ID="LblWelcomeMsg" runat="server" CssClass="lblcontrol"></asp:Label>
+            <table id="MasterTable" align="center">
+                <tr>
+                    <td>
+                        <asp:ContentPlaceHolder ID="MasterContentPlaceHolder" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+            </table>
+        </asp:Panel>
+    </div>
+    </form>
+</body>
+</html>

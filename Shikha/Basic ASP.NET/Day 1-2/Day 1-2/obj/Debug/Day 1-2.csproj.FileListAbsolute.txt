@@ -1,0 +1,10 @@
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ASP.NET\Day 1-2\Day 1-2\Day 1-2\bin\Day 1-2.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ASP.NET\Day 1-2\Day 1-2\Day 1-2\bin\Day 1-2.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ASP.NET\Day 1-2\Day 1-2\Day 1-2\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ASP.NET\Day 1-2\Day 1-2\Day 1-2\obj\Debug\Day 1-2.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ASP.NET\Day 1-2\Day 1-2\Day 1-2\obj\Debug\Day 1-2.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ASP.NET\Day 1-2\Day 1-2\bin\Day 1-2.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ASP.NET\Day 1-2\Day 1-2\bin\Day 1-2.pdb
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ASP.NET\Day 1-2\Day 1-2\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ASP.NET\Day 1-2\Day 1-2\obj\Debug\Day 1-2.dll
+D:\DotNetSkillUp_VSS\Source Code\Shikha\Basic ASP.NET\Day 1-2\Day 1-2\obj\Debug\Day 1-2.pdb

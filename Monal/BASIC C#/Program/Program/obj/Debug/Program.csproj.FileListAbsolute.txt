@@ -1,0 +1,5 @@
+D:\DOTNET_SKILLUP\Source Code\Monal\BASIC C#\Program\Program\bin\Debug\Program.exe
+D:\DOTNET_SKILLUP\Source Code\Monal\BASIC C#\Program\Program\bin\Debug\Program.pdb
+D:\DOTNET_SKILLUP\Source Code\Monal\BASIC C#\Program\Program\obj\Debug\ResolveAssemblyReference.cache
+D:\DOTNET_SKILLUP\Source Code\Monal\BASIC C#\Program\Program\obj\Debug\Program.exe
+D:\DOTNET_SKILLUP\Source Code\Monal\BASIC C#\Program\Program\obj\Debug\Program.pdb

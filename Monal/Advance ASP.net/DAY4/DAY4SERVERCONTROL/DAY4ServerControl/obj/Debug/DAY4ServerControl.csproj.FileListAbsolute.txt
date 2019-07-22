@@ -1,0 +1,5 @@
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY4\DAY4ServerControl\DAY4ServerControl\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY4\DAY4ServerControl\DAY4ServerControl\bin\Debug\DAY4ServerControl.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY4\DAY4ServerControl\DAY4ServerControl\bin\Debug\DAY4ServerControl.pdb
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY4\DAY4ServerControl\DAY4ServerControl\obj\Debug\DAY4ServerControl.dll
+D:\DotNet_Skillup\Source Code\Monal\Advance ASP.net\DAY4\DAY4ServerControl\DAY4ServerControl\obj\Debug\DAY4ServerControl.pdb

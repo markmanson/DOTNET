@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="NestedMaster.master.cs" Inherits="Day_9.NestedMaster" MasterPageFile="~/MasterPage.Master" %>
+                <asp:Content ID="Nested" runat="server" ContentPlaceHolderID="ContentPlaceHolderMaster">
+                    
+                        <asp:Table ID="tblNested" runat="server" HorizontalAlign="Center" BorderColor="DarkSeaGreen" BorderWidth="2">
+                                    <asp:TableHeaderRow>
+                                    <asp:TableCell>
+                                            <asp:Label ID="lblNested" runat="server" Text="A different master for a different occasion!" Font-Bold="true" Font-Italic="true" Font-Size="XX-Large" ForeColor="Coral"></asp:Label>
+                                    </asp:TableCell>
+                                    </asp:TableHeaderRow>
+                        </asp:Table> 
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolderNested" runat="server">
+                    </asp:ContentPlaceHolder> 
+                </asp:Content>
+    

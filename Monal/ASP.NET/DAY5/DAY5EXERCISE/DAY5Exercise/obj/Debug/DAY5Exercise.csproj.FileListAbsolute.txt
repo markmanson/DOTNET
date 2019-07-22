@@ -1,0 +1,10 @@
+D:\DotNet_Skillup\Source Code\Monal\ASP.NET\DAY3-4\DAY5Exercise\DAY5Exercise\bin\DAY5Exercise.dll
+D:\DotNet_Skillup\Source Code\Monal\ASP.NET\DAY3-4\DAY5Exercise\DAY5Exercise\bin\DAY5Exercise.pdb
+D:\DotNet_Skillup\Source Code\Monal\ASP.NET\DAY3-4\DAY5Exercise\DAY5Exercise\obj\Debug\ResolveAssemblyReference.cache
+D:\DotNet_Skillup\Source Code\Monal\ASP.NET\DAY3-4\DAY5Exercise\DAY5Exercise\obj\Debug\DAY5Exercise.dll
+D:\DotNet_Skillup\Source Code\Monal\ASP.NET\DAY3-4\DAY5Exercise\DAY5Exercise\obj\Debug\DAY5Exercise.pdb
+D:\DOTNET_SKILLUP\Source Code\Monal\ASP.NET\DAY5\DAY5Exercise\DAY5Exercise\bin\DAY5Exercise.dll
+D:\DOTNET_SKILLUP\Source Code\Monal\ASP.NET\DAY5\DAY5Exercise\DAY5Exercise\bin\DAY5Exercise.pdb
+D:\DOTNET_SKILLUP\Source Code\Monal\ASP.NET\DAY5\DAY5Exercise\DAY5Exercise\obj\Debug\ResolveAssemblyReference.cache
+D:\DOTNET_SKILLUP\Source Code\Monal\ASP.NET\DAY5\DAY5Exercise\DAY5Exercise\obj\Debug\DAY5Exercise.dll
+D:\DOTNET_SKILLUP\Source Code\Monal\ASP.NET\DAY5\DAY5Exercise\DAY5Exercise\obj\Debug\DAY5Exercise.pdb

@@ -1,0 +1,37 @@
+﻿body
+{ background-color:Gray;
+}
+h1 {
+    text-align: left;
+    letter-spacing: 6px;
+    font-size: 1.4em;
+    color: #be7429;
+    font-weight: normal;
+    width: 450px;
+}
+a
+{
+	font-family:Arial;
+	font-size:x-large;
+	font-style:italic;
+	color:Purple;
+
+}
+
+b
+{
+	font-family:Arial;
+	font-size:x-large;
+	font-style:italic;
+	color:Blue;
+}
+style1
+        {
+            width: 533px;
+        }
+       
+      style2
+        {
+            width: 533px;
+            height: 120px;
+        }

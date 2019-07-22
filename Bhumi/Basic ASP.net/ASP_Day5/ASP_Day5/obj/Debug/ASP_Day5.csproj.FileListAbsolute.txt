@@ -1,0 +1,12 @@
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day5\ASP_Day5\bin\ASP_Day5.dll
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day5\ASP_Day5\bin\ASP_Day5.pdb
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day5\ASP_Day5\obj\Debug\ResolveAssemblyReference.cache
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day5\ASP_Day5\obj\Debug\ASP_Day5.dll
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day5\ASP_Day5\obj\Debug\ASP_Day5.pdb
+c:\users\uniad02\documents\visual studio 2010\Projects\ASP_Day5\ASP_Day5\bin\AjaxControlToolkit.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day5\ASP_Day5\bin\ASP_Day5.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day5\ASP_Day5\bin\ASP_Day5.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day5\ASP_Day5\bin\AjaxControlToolkit.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day5\ASP_Day5\obj\Debug\ASP_Day5.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day5\ASP_Day5\obj\Debug\ASP_Day5.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ASP.net\ASP_Day5\ASP_Day5\obj\Debug\ASP_Day5.csprojResolveAssemblyReference.cache

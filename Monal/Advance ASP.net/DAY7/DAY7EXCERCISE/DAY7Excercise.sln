@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAY7Excercise", "DAY7Excercise\DAY7Excercise.csproj", "{DF6E46B3-50A2-405B-930C-D8BC37B99446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF6E46B3-50A2-405B-930C-D8BC37B99446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF6E46B3-50A2-405B-930C-D8BC37B99446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF6E46B3-50A2-405B-930C-D8BC37B99446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF6E46B3-50A2-405B-930C-D8BC37B99446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

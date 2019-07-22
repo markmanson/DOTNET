@@ -1,0 +1,27 @@
+c:\users\uniad02\documents\visual studio 2010\Projects\ADO_Day2_4\ADO_Day2_4\bin\ADO_Day2_4.dll
+c:\users\uniad02\documents\visual studio 2010\Projects\ADO_Day2_4\ADO_Day2_4\bin\ADO_Day2_4.pdb
+c:\users\uniad02\documents\visual studio 2010\Projects\ADO_Day2_4\ADO_Day2_4\obj\Debug\ResolveAssemblyReference.cache
+c:\users\uniad02\documents\visual studio 2010\Projects\ADO_Day2_4\ADO_Day2_4\obj\Debug\ADO_Day2_4.dll
+c:\users\uniad02\documents\visual studio 2010\Projects\ADO_Day2_4\ADO_Day2_4\obj\Debug\ADO_Day2_4.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\ADO_Day2_4.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\ADO_Day2_4.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\obj\Debug\ADO_Day2_4.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\obj\Debug\ADO_Day2_4.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\AjaxControlToolkit.pdb
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\ar\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\cs\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\de\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\es\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\fr\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\he\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\hi\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\it\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\ja\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\ko\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\nl\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\pt\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\ru\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\svn\DOTNS\Source Code\Development Area\Bhumi\Basic ADO.NET\ADO_Day2_4\ADO_Day2_4\obj\Debug\ADO_Day2_4.csprojResolveAssemblyReference.cache
